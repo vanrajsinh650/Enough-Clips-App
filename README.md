@@ -20,13 +20,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/vanrajsinh650/Enough-Clips-App/main/docs/images/1_screenshot.png)
+![](https://raw.githubusercontent.com/vanrajsinh650/Enough-Clips-App/main/docs/images/1_screenshot.png)
 
 ### ❤️ Favorites Page
-![Favorites Page](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/2_screenshot.png?raw=true)
+![](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/2_screenshot.png?raw=true)
 
 ### 🔎 Search Feature
-![Search Feature](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/3_screenshot.png?raw=true)
+![](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/3_screenshot.png?raw=true)
 
 ## 🛠️ Tech Stack
 
