@@ -4,7 +4,10 @@
 
 ### 📸 Screenshot
 
-![Home Page](https://github.com/vanrajsinh650/React-Movie-App/blob/main/docs/images/1_screenshot.png?raw=true)
-![Favorites Page](https://github.com/vanrajsinh650/React-Movie-App/blob/main/docs/images/2_screenshot.png?raw=true)
-![Search Feature](https://github.com/vanrajsinh650/React-Movie-App/blob/main/docs/images/3_screenshot.png?raw=true)
+## 📸 Screenshot
 
+![Home Page](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/1_screenshot.png?raw=true)
+
+![Favorites Page](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/2_screenshot.png?raw=true)
+
+![Search Feature](https://github.com/vanrajsinh650/Enough-Clips-App/blob/main/docs/images/3_screenshot.png?raw=true)
