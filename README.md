@@ -12,6 +12,11 @@
 
 ⚡ Responsive Design: Works well on desktop and mobile devices.
 
+## 📸 Demo
+
+![Enough Clips Demo](https://raw.githubusercontent.com/vanrajsinh650/Enough-Clips-App/main/docs/images/demo.gif)
+
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
