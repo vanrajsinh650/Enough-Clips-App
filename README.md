@@ -4,10 +4,13 @@
 
 ## 🚀 Features
 
--🔎 **Search Movies:** Find movies by name.
-❤️ **Favorites Section:** Save your favorite movies to view them later.
-🌐 **Popular Movies:** Browse trending and popular movies.
-⚡ **Responsive Design:** Works well on desktop and mobile devices.
+###🔎 Search Movies: Find movies by name.
+
+###❤️ Favorites Section: Save your favorite movies to view them later.
+
+###🌐 Popular Movies: Browse trending and popular movies.
+
+###⚡ Responsive Design: Works well on desktop and mobile devices.
 
 ## 📸 Screenshots
 
@@ -22,6 +25,8 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Tailwind CSS
-**Backend :** Working 
-**API:** OMDb API
+###Frontend: React, Tailwind CSS
+
+###Backend: Working 
+
+###API: OMDb API
